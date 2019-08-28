@@ -18,10 +18,11 @@ Initial Function3()
 
 Initial Function4()
 {
-
- //Feature 1 code added
+<<<<<<< HEAD
+ //Feature 1 code added 
+=======
  //Code written from Featue 2
-
+>>>>>>> Feature2
 }
 
 
